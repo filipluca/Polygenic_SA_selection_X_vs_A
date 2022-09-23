@@ -1,5 +1,7 @@
-# "An unbiased test reveals no enrichment of sexually antagonistic polymorphisms on the human X chromosome" (Ruzicka & Connallon, Proc. B, 2022)
+#  An unbiased test reveals no enrichment of sexually antagonistic polymorphisms on the human X chromosome
 
 Welcome!
 
-The code needed to reproduce the analyses in the above manuscript will be uploaded soon. Working on it...
+Here you will soon be able to find code for the manuscript titled "An unbiased test reveals no enrichment of sexually antagonistic polymorphisms on the human X chromosome" (Ruzicka & Connallon, Proc. B, 2022).
+
+Working on it...
